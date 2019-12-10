@@ -38,5 +38,8 @@ if(count!=2):
             print("Result: ",atm.deposit(amount,bal))
         elif choice == 0:
              print("Exiting")
+                
+
+
         else:
             print("Invalid choice!")
